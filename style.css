@@ -1,0 +1,19 @@
+/* I gat style */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    width: 40%;
+}
+
+
+#home {
+    /* display: none; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0ef;
+    height: 100vh;
+}
